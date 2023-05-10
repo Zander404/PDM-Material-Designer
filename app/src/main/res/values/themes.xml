@@ -1,12 +1,107 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Base.Theme.Tela1" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-         <item name="colorPrimary">@color/crom_primary</item>
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pers_quaternary</item>
+        <item name="colorPrimaryVariant">@color/pers_secondary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pers_primary</item>
+        <item name="colorSecondaryVariant">@color/pers_tertiary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorPrimaryVariant</item>
+        <item name="android:colorButtonNormal">?attr/colorSecondaryVariant</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
 
     </style>
 
     <style name="Theme.Tela1" parent="Base.Theme.Tela1" />
+
+
+    <style name="Base.Theme.Tela2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/crom_primary</item>
+        <item name="colorPrimaryVariant">@color/crom_secondary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/crom_tertiary</item>
+        <item name="colorSecondaryVariant">@color/crom_quaternary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorPrimaryVariant</item>
+        <item name="android:button">?attr/colorSecondary</item>
+        <item name="android:colorButtonNormal">?attr/colorSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+
+    </style>
+
+    <style name="Theme.Tela2" parent="Base.Theme.Tela2" />
+
+
+
+    <style name="Base.Theme.Tela3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/mono_primary</item>
+        <item name="colorPrimaryVariant">@color/mono_secondary</item>
+        <item name="colorAccent">@color/mono_secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/mono_tertiary</item>
+        <item name="colorSecondaryVariant">@color/mono_quaternary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorPrimaryVariant</item>
+        <item name="android:button">?attr/colorSecondary</item>
+        <item name="android:colorButtonNormal">?attr/colorSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+
+    </style>
+
+    <style name="Theme.Tela3" parent="Base.Theme.Tela3" />
+
+
+    <style name="Base.Theme.Tela4" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/quad_primary</item>
+        <item name="colorPrimaryVariant">@color/quad_secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/quad_tertiary</item>
+        <item name="colorSecondaryVariant">@color/quad_quaternary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorPrimaryVariant</item>
+        <item name="android:buttonTint">?attr/colorSecondary</item>
+        <item name="android:buttonBarButtonStyle">?attr/colorSecondary</item>
+        <item name="android:colorButtonNormal">?attr/colorSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+
+    </style>
+
+    <style name="Theme.Tela4" parent="Base.Theme.Tela4" />
+
+
+
+
+
+
 
 
 </resources>

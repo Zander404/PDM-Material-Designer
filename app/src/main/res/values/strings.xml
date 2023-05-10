@@ -6,4 +6,11 @@
     <string name="tela_harmo_quadratica">Tela Harmo. Quadratica</string>
     <string name="tela_inicial">Tela Inicial</string>
     <string name="moto">Moto</string>
+    <string name="verificado">Verificado</string>
+    <string name="image_button">Image Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="todo">TODO</string>
+    <string name="caledar">Caledar</string>
+    <string name="button">Button</string>
+    <string name="bot_o">Botão</string>
 </resources>

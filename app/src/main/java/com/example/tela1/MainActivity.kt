@@ -11,9 +11,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val tela2 = findViewById<Button>(R.id.btn1)
+        val tela1 = findViewById<Button>(R.id.btn1)
         actionBar?.setDisplayHomeAsUpEnabled(true)
-        tela2.setOnClickListener {
+        tela1.setOnClickListener {
 
             Toast.makeText(this, "Tela Cromatica", Toast.LENGTH_SHORT).show()
             val intent = Intent(this, MainActivity2::class.java)
