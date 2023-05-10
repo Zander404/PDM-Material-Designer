@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tela1</string>
+    <string name="tela_cromatica">Tela - Cromatica</string>
+    <string name="tela_personalizada">Tela Personalizada</string>
+    <string name="tela_monocromatica">Tela Monocromatica</string>
+    <string name="tela_harmo_quadratica">Tela Harmo. Quadratica</string>
+    <string name="tela_inicial">Tela Inicial</string>
+    <string name="moto">Moto</string>
+</resources>

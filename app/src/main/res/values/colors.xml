@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    Personalizado-->
+    <color name="pers_primary">#DC0105</color>
+    <color name="pers_secondary">#7E22DB</color>
+    <color name="pers_tertiary">#E06A01</color>
+    <color name="pers_quaternary">#07DB08</color>
+
+
+    <!--    Harmoniza Cromatica-->
+    <color name="crom_primary">#0CE8C3</color>
+    <color name="crom_secondary">#0CF28B</color>
+    <color name="crom_tertiary">#0CF28B</color>
+    <color name="crom_quaternary">#11F20C</color>
+
+<!--    Monocromatico-->
+    <color name="mono_primary">#168027</color>
+    <color name="mono_secondary">#78FF8E</color>
+    <color name="mono_tertiary">#2BFF4F</color>
+    <color name="mono_quaternary">#3C8047</color>
+
+<!--    Harmonizacao Quadratica-->
+    <color name="quad_primary">#4AE0DB</color>
+    <color name="quad_secondary">#8C23DB</color>
+    <color name="quad_tertiary">#0EDBD4</color>
+    <color name="quad_quaternary">#DB6423</color>
+
+</resources>
